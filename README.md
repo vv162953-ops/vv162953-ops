@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Vijayakumar V brand banner with a dark red and black design and bold personal branding text" />
+  <img src="header.svg" width="100%" alt="Vijayakumar V brand banner with a dark red and black design and bold personal branding text" />
 </p>
 
 <p align="center">
