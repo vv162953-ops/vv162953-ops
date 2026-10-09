@@ -191,7 +191,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/quote.svg" width="100%" style="max-width: 720px;" alt="Decorative quote graphic with the words Code and Art" />
+  <img src="quote.svg" width="100%" style="max-width: 720px;" alt="Decorative quote graphic with the words Code and Art" />
 </p>
 
 ---
