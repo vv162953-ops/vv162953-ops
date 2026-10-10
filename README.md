@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/LeetCode-Solve-DC2626?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0a0a0a" alt="Solve coding challenges on my LeetCode profile" />
   </a>
   &nbsp;
-  <a href="https://drive.google.com/file/d/1GY9lUeE9zneL9efZNbQOiWyH55UYrBXz/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1JSzDz6Q6qxcdjbCw2s3qv15NB5Qklw9G/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/Resume-Drive-DC2626?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=0a0a0a" alt="Open my resume in Google Drive" />
   </a>
   &nbsp;
